@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">ActivityLifecycle</string>
+  <string name="instructions">Запустите Logcat с фильтром ActivityLifecycle. Сверните приложение, вернитесь в него и поверните экран.</string>
+</resources>
